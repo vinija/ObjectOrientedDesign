@@ -18,7 +18,7 @@ public class Jukebox {
     }
 
     public Song getCurrentSong(){
-        return ts.getCurrentSong();
+        return ts.getSong();
     }
 
 
