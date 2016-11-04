@@ -21,5 +21,9 @@ public class Jukebox {
         return ts.getSong();
     }
 
+    public void setUser(User u){
+        this. user = u;
+    }
+
 
 }
